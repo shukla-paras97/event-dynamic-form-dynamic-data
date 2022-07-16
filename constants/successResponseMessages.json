@@ -1,0 +1,12 @@
+{
+  "4001" : "no event is created",
+  "4002" : "no event is found",
+  "4003" : "no eventdata is saved",
+  "4004" : "no event data found",
+
+  "2001" : "new event is created",
+  "2002" : "event found successfully",
+  "2003" : "eventdata saved successfully",
+  "2004" : "eventdata found successfully"
+
+}
